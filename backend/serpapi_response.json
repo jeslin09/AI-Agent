@@ -1,0 +1,677 @@
+{
+    "search_metadata": {
+        "id": "673a57dcf3622a762a6fc1de",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/df02c948c7046661/673a57dcf3622a762a6fc1de.json",
+        "created_at": "2024-11-17 20:53:48 UTC",
+        "processed_at": "2024-11-17 20:53:48 UTC",
+        "google_url": "https://www.google.com/search?q=+IT+universities&oq=+IT+universities&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/df02c948c7046661/673a57dcf3622a762a6fc1de.html",
+        "total_time_taken": 2.34
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": " IT universities",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "IT universities",
+        "total_results": 1440000000,
+        "time_taken_displayed": 0.41,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Arizona State University - Information Technology Degree",
+            "link": "https://asuonline.asu.edu/online-degree-programs/undergraduate/bachelor-science-information-technology/",
+            "displayed_link": "https://asuonline.asu.edu \u203a info-technology \u203a degree",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABAHGgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAAYASAAEgJ_3_D_BwE&sig=AOD64_1AqOaqMS9PP3Cw0ncEff8rTk2z4Q&q&nis=4&adurl",
+            "source": "ASU Online",
+            "sitelinks": [
+                {
+                    "title": "Tuition & Financial Aid",
+                    "link": "https://asuonline.asu.edu/what-it-costs/"
+                },
+                {
+                    "title": "ASU Bachelor's Online",
+                    "link": "https://start.asuonline.asu.edu/undergraduate/a/"
+                },
+                {
+                    "title": "Transfer to ASU Online",
+                    "link": "https://asuonline.asu.edu/admission/transfer/"
+                },
+                {
+                    "title": "ASU Online FAQ's",
+                    "link": "https://asuonline.asu.edu/about-us/faq/"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "DeVry University - Computer Science and Software",
+            "link": "https://www.devry.edu/get-started/tech.html",
+            "displayed_link": "https://www.devry.edu",
+            "thumbnail": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/19c762284ea84fc85c3872c05f0d19f4.jpeg",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABA7GgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAAYAiALEgJGMfD_BwE&sig=AOD64_2Hi16oQEteoQ_MmsbgNriFU03RJg&q=&nis=4&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQh78CegQICxAB&adurl=",
+            "source": "DeVry University",
+            "sitelinks": [
+                {
+                    "title": "Campus Locations",
+                    "link": "https://devry.edu/get-started/locations.html?ca.mp=GOOGLE&ab.sc=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&cmpid=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&vc=208925&utm_campaign=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&utm_content=208925-pfx"
+                },
+                {
+                    "title": "Tech and Engineering",
+                    "link": "https://devry.edu/get-started/tech.html?ca.mp=GOOGLE&ab.sc=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&cmpid=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&vc=208925&utm_campaign=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&utm_content=208925-pfx"
+                },
+                {
+                    "title": "Online Options",
+                    "link": "https://devry.edu/get-started/core/online-options.html?ca.mp=GOOGLE&ab.sc=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&cmpid=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&vc=208925&utm_campaign=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&utm_content=208925-pfx"
+                },
+                {
+                    "title": "Flexible Options",
+                    "link": "https://devry.edu/get-started/remarketing.html?ca.mp=GOOGLE&ab.sc=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&cmpid=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&vc=208925&utm_campaign=ps_adw_dvu_core-nonbrand-desktop_208925_pfx&utm_content=208925-pfx"
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "block_position": "top",
+            "title": "Katz Online Cybersecurity MS - Path to Certification - Apply Today",
+            "link": "https://info.online.yu.edu/katz-cybersecurity",
+            "displayed_link": "https://online.yu.edu \u203a masters \u203a cybersecurity",
+            "thumbnail": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/cd9d887b6c7c239112f0aee0e5b8fc5a.jpeg",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABAjGgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAAYAyAHEgLeyPD_BwE&sig=AOD64_0bZZQoyFbfvdCshFsJ0RrvwR5Ueg&q=&nis=4&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQh78CegQICBAB&adurl=",
+            "source": "online.yu.edu"
+        },
+        {
+            "position": 4,
+            "block_position": "top",
+            "title": "Apply Now - Bachelor's Degree in IT",
+            "link": "https://www.uagc.edu/success/programs/information-technology-v5",
+            "displayed_link": "https://www.uagc.edu",
+            "thumbnail": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/fb5ac9b7dd56d71d59f048d59cda42ac.jpeg",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABA6GgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAAYBCAFEgJLjfD_BwE&sig=AOD64_0N_BYcf7PbFc0FX4bkZP_L2buaDg&q=&nis=4&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQh78CegQIChAB&adurl=",
+            "source": "UAGC",
+            "sitelinks": [
+                {
+                    "title": "50+ Online Degrees",
+                    "link": "https://www.uagc.edu/success/online-degrees-v5"
+                },
+                {
+                    "title": "Degree Comparison Tool",
+                    "link": "https://www.uagc.edu/online-degrees/comparison"
+                },
+                {
+                    "title": "Military Education Grants",
+                    "link": "https://www.uagc.edu/military"
+                },
+                {
+                    "title": "Why UAGC",
+                    "link": "https://www.uagc.edu/about/why-uagc"
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "block_position": "bottom",
+            "title": "University of Phoenix\u00ae Online",
+            "link": "https://www.phoenix.edu/info/mis.html",
+            "displayed_link": "https://www.phoenix.edu \u203a info_systems \u203a masters_degree",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABADGgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAMYASAAEgL6UvD_BwE&sig=AOD64_3bQwG0zNZDTlG_1zxv-nqI1IlmaQ&q&nis=4&adurl",
+            "source": "phoenix.edu",
+            "sitelinks": [
+                {
+                    "title": "Admissions Information",
+                    "link": "https://www.phoenix.edu/admissions.html"
+                },
+                {
+                    "title": "Going Back To School?",
+                    "link": "https://www.phoenix.edu/why-phoenix/back-to-school.html"
+                },
+                {
+                    "title": "Payment Options",
+                    "link": "https://www.phoenix.edu/student-orientation/paying-for-school.html"
+                },
+                {
+                    "title": "Financial Aid Options",
+                    "link": "https://www.phoenix.edu/student-orientation/paying-for-school.html"
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "block_position": "bottom",
+            "title": "IT Bachelor's Degree",
+            "link": "https://www.wgu.edu/lp/it/lead/bsit.html",
+            "displayed_link": "https://www.wgu.edu",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABAAGgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAMYAiAAEgIA-PD_BwE&sig=AOD64_0CB7oEFI3CbBLFjVQP-3sPFT1WkA&q&nis=4&adurl",
+            "source": "WGU",
+            "sitelinks": [
+                {
+                    "title": "Tuition & Financial Aid",
+                    "link": "https://www.wgu.edu/financial-aid-tuition/financial-aid.html?refer_id=15696&ch=PDSRCH"
+                },
+                {
+                    "title": "College of IT",
+                    "link": "https://www.wgu.edu/online-it-degrees.html?refer_id=15708&ch=PDSRCH"
+                },
+                {
+                    "title": "Apply Free",
+                    "link": "https://inquiry.wgu.edu/"
+                },
+                {
+                    "title": "Request Information",
+                    "link": "https://inquiry.wgu.edu/?refer_id=74787&ch=PDSRCH"
+                },
+                {
+                    "title": "About WGU Online",
+                    "link": "https://www.wgu.edu/about.html?refer_id=73912&ch=PDSRCH"
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "block_position": "bottom",
+            "title": "Penn State IT Degrees Online",
+            "link": "https://www.worldcampus.psu.edu/penn-state-online-ist-undergraduate-programs",
+            "displayed_link": "https://worldcampus.psu.edu \u203a info-tech \u203a onlinepennstate",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi8-t75n-SJAxWJIUQIHSlqI3oYABABGgJkeg&co=1&ase=2&gclid=EAIaIQobChMIvPre-Z_kiQMViSFECB0paiN6EAMYAyAAEgJAtPD_BwE&sig=AOD64_2fZDWF_o8i8ho9mrv3KNDmFUtJsA&q&nis=4&adurl",
+            "source": "worldcampus.psu.edu",
+            "sitelinks": [
+                {
+                    "title": "IT Bachelor's Degree",
+                    "link": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-information-sciences-and-technology-bachelor-of-science-degree/"
+                },
+                {
+                    "title": "Master's Degree",
+                    "link": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-enterprise-architecture-and-business-transformation-masters-degree/"
+                },
+                {
+                    "title": "Cybersecurity Master's",
+                    "link": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-cybersecurity-analytics-and-operations-masters-degree/"
+                },
+                {
+                    "title": "Earn Cybersecurity Degree",
+                    "link": "https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-cybersecurity-analytics-and-operations-bachelor-of-science-degree/"
+                }
+            ]
+        }
+    ],
+    "more_events_link": "https://www.google.com/search?q=+IT+universities&sourceid=chrome&ibp=htl;splinter&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQiYsCKAJ6BAg4EBU",
+    "more_events_serpapi_link": "https://serpapi.com/search.json?engine=google_events&q=+IT+universities",
+    "related_questions": [
+        {
+            "question": "Which university is best for IT?",
+            "snippet": "COMSATS University Islamabad COMSATS is a top choice for IT education in Pakistan. It strongly specializes in studies and innovation, offering undergraduate and postgraduate packages in computer technological know-how and software program engineering.",
+            "title": "Best IT Universities in Pakistan - Top Ranking Universities",
+            "date": "Sep 30, 2024",
+            "link": "https://www.superiorcolleges.edu.pk/best-it-universities-in-pakistan/#:~:text=COMSATS%20University%20Islamabad,how%20and%20software%20program%20engineering.",
+            "displayed_link": "https://www.superiorcolleges.edu.pk \u203a best-it-universities...",
+            "source_logo": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/4698c7900ea087e6acaf28eaa467ad9032e06d8019110b2c1ace604643819df6.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCB1bml2ZXJzaXR5IGlzIGJlc3QgZm9yIElUPyIsImxrIjoiR2g5M2FHbGphQ0IxYm1sMlpYSnphWFI1SUdseklHSmxjM1FnWm05eUlHbDAiLCJicyI6ImMtUHk0RklJejhoTXpsQW96Y3NzU3kwcXppeXBWTWdzVmtoS0xTNVJTTXN2VXZBTXNaZllyMldrS0NWZmprOVpaZ2xYQ0pjYXhLVGtfSnljMVBSVWhZekVZb1dTakZTSUlzOFFoWUtpX1BTaXhGeDdpYXZWUnVwU3F1VzRGV2VXd0JSelJYRnBRMHpOUkRVTTJSMTVZSm5RWUVkN2liLVpSaHBTYXVVWU9vQW1vdW9vTFU3a1N1TFNEYzlJTElFcFZEWUV1aWEzb0xRa3RVaWhPRGt6TlM4NUZVaG41T2ZuZ0RUNGVkbExfTW8yMHBQU0tTZGFUMTZXQUNNQSIsImlkIjoiZmNfM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXdfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCB1bml2ZXJzaXR5IGlzIGJlc3QgZm9yIElUPyIsImxrIjoiR2g5M2FHbGphQ0IxYm1sMlpYSnphWFI1SUdseklHSmxjM1FnWm05eUlHbDAiLCJicyI6ImMtUHk0RklJejhoTXpsQW96Y3NzU3kwcXppeXBWTWdzVmtoS0xTNVJTTXN2VXZBTXNaZllyMldrS0NWZmprOVpaZ2xYQ0pjYXhLVGtfSnljMVBSVWhZekVZb1dTakZTSUlzOFFoWUtpX1BTaXhGeDdpYXZWUnVwU3F1VzRGV2VXd0JSelJYRnBRMHpOUkRVTTJSMTVZSm5RWUVkN2liLVpSaHBTYXVVWU9vQW1vdW9vTFU3a1N1TFNEYzlJTElFcFZEWUV1aWEzb0xRa3RVaWhPRGt6TlM4NUZVaG41T2ZuZ0RUNGVkbExfTW8yMHBQU0tTZGFUMTZXQUNNQSIsImlkIjoiZmNfM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXdfMSJ9"
+        },
+        {
+            "question": "Which college has the best IT program?",
+            "snippet": null,
+            "title": "The 14 Top Information Technology Schools",
+            "link": "https://blog.prepscholar.com/best-information-technology-schools",
+            "list": [
+                "#1: Cornell University \u2014 Ithaca, NY. ... ",
+                "#2: New York University \u2014 New York, NY. ... ",
+                "#3: Carnegie Mellon University \u2014 Pittsburgh, PA. ... ",
+                "#4: Rensselaer Polytechnic Institute \u2014 Troy, NY. ... ",
+                "#5: Lehigh University \u2014 Bethlehem, PA. ... ",
+                "#6: Brigham Young University \u2014 Provo, UT."
+            ],
+            "displayed_link": "https://blog.prepscholar.com \u203a best-information-technolo...",
+            "source_logo": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/4698c7900ea087e6acaf28eaa467ad908224a79018e4ad069e77131ebf4fe666.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCBjb2xsZWdlIGhhcyB0aGUgYmVzdCBJVCBwcm9ncmFtPyIsImxrIjoiR2lWM2FHbGphQ0JqYjJ4c1pXZGxJR2hoY3lCMGFHVWdZbVZ6ZENCcGRDQndjbTluY21GdCIsImJzIjoiYy1QeTRGSUl6OGhNemxBb3pjc3NTeTBxeml5cFZNZ3NWa2hLTFM1UlNNc3ZVdkFNc1pmWXIyV2tLQ1Zmams5WlpnbFhDSmNheEtUa19KeWMxUFJVaFl6RVlvV1NqRlNJSXM4UWhZS2lfUFNpeEZ4N2lhdlZSdXBTcXVXNEZXZVd3QlJ6UlhGcFEwek5SRFVNMlIxNVlKblFZRWQ3aWItWlJocFNhdVVZT29BbW91b29MVTdrU3VMU0RjOUlMSUVwVkRZRXVpYTNvTFFrdFVpaE9Ea3pOUzg1RlVobjVPZm5nRFQ0ZWRsTF9NbzIwcFBTS1NkYVQxNldBQ01BIiwiaWQiOiJmY18zVmM2Wi1LUkZzZkwxc1FQMHN2cW1Bd18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCBjb2xsZWdlIGhhcyB0aGUgYmVzdCBJVCBwcm9ncmFtPyIsImxrIjoiR2lWM2FHbGphQ0JqYjJ4c1pXZGxJR2hoY3lCMGFHVWdZbVZ6ZENCcGRDQndjbTluY21GdCIsImJzIjoiYy1QeTRGSUl6OGhNemxBb3pjc3NTeTBxeml5cFZNZ3NWa2hLTFM1UlNNc3ZVdkFNc1pmWXIyV2tLQ1Zmams5WlpnbFhDSmNheEtUa19KeWMxUFJVaFl6RVlvV1NqRlNJSXM4UWhZS2lfUFNpeEZ4N2lhdlZSdXBTcXVXNEZXZVd3QlJ6UlhGcFEwek5SRFVNMlIxNVlKblFZRWQ3aWItWlJocFNhdVVZT29BbW91b29MVTdrU3VMU0RjOUlMSUVwVkRZRXVpYTNvTFFrdFVpaE9Ea3pOUzg1RlVobjVPZm5nRFQ0ZWRsTF9NbzIwcFBTS1NkYVQxNldBQ01BIiwiaWQiOiJmY18zVmM2Wi1LUkZzZkwxc1FQMHN2cW1Bd18xIn0%3D"
+        },
+        {
+            "question": "Which is the best IT university in the USA?",
+            "snippet": null,
+            "title": "Top IT universities in the USA",
+            "date": "Jan 17, 2024",
+            "link": "https://www.avanse.com/blog/top-it-universities-in-the-usa",
+            "list": [
+                "Massachusetts Institute of Technology (MIT) As per the Quacquarelli Symonds (QS) World University Ranking 2024 (Top global universities), MIT is the best university in the world. ... ",
+                "Stanford University. ... ",
+                "Harvard University. ... ",
+                "University of California. ... ",
+                "Arizona State University."
+            ],
+            "displayed_link": "https://www.avanse.com \u203a blog \u203a top-it-universities-in-th...",
+            "source_logo": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/4698c7900ea087e6acaf28eaa467ad903455179526cc8410a0f4384bb2be7f5e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBJVCB1bml2ZXJzaXR5IGluIHRoZSBVU0E/IiwibGsiOiJHaVozYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JwZENCMWJtbDJaWEp6YVhSNUlHbHVJSFZ6WVEiLCJicyI6ImMtUHk0RklJejhoTXpsQW96Y3NzU3kwcXppeXBWTWdzVmtoS0xTNVJTTXN2VXZBTXNaZllyMldrS0NWZmprOVpaZ2xYQ0pjYXhLVGtfSnljMVBSVWhZekVZb1dTakZTSUlzOFFoWUtpX1BTaXhGeDdpYXZWUnVwU3F1VzRGV2VXd0JSelJYRnBRMHpOUkRVTTJSMTVZSm5RWUVkN2liLVpSaHBTYXVVWU9vQW1vdW9vTFU3a1N1TFNEYzlJTElFcFZEWUV1aWEzb0xRa3RVaWhPRGt6TlM4NUZVaG41T2ZuZ0RUNGVkbExfTW8yMHBQU0tTZGFUMTZXQUNNQSIsImlkIjoiZmNfM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXdfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBJVCB1bml2ZXJzaXR5IGluIHRoZSBVU0E%2FIiwibGsiOiJHaVozYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JwZENCMWJtbDJaWEp6YVhSNUlHbHVJSFZ6WVEiLCJicyI6ImMtUHk0RklJejhoTXpsQW96Y3NzU3kwcXppeXBWTWdzVmtoS0xTNVJTTXN2VXZBTXNaZllyMldrS0NWZmprOVpaZ2xYQ0pjYXhLVGtfSnljMVBSVWhZekVZb1dTakZTSUlzOFFoWUtpX1BTaXhGeDdpYXZWUnVwU3F1VzRGV2VXd0JSelJYRnBRMHpOUkRVTTJSMTVZSm5RWUVkN2liLVpSaHBTYXVVWU9vQW1vdW9vTFU3a1N1TFNEYzlJTElFcFZEWUV1aWEzb0xRa3RVaWhPRGt6TlM4NUZVaG41T2ZuZ0RUNGVkbExfTW8yMHBQU0tTZGFUMTZXQUNNQSIsImlkIjoiZmNfM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXdfMSJ9"
+        },
+        {
+            "question": "What is the #1 computer science school in NJ?",
+            "snippet": "Best Computer Science and IT Colleges in New Jersey",
+            "table": [
+                [
+                    "Ranking",
+                    "School Name",
+                    "% Receiving Financial Aid"
+                ],
+                [
+                    "1",
+                    "Stevens Institute of Technology",
+                    "99%"
+                ],
+                [
+                    "2",
+                    "New Jersey Institute of Technology",
+                    "92%"
+                ],
+                [
+                    "3",
+                    "Rowan College at Gloucester County",
+                    "67%"
+                ],
+                [
+                    "4",
+                    "Atlantic Cape Community College",
+                    "77%"
+                ]
+            ],
+            "formatted": [
+                {
+                    "ranking": "1",
+                    "school_name": "Stevens Institute of Technology",
+                    "receiving_financial_aid": "99%"
+                },
+                {
+                    "ranking": "2",
+                    "school_name": "New Jersey Institute of Technology",
+                    "receiving_financial_aid": "92%"
+                },
+                {
+                    "ranking": "3",
+                    "school_name": "Rowan College at Gloucester County",
+                    "receiving_financial_aid": "67%"
+                },
+                {
+                    "ranking": "4",
+                    "school_name": "Atlantic Cape Community College",
+                    "receiving_financial_aid": "77%"
+                }
+            ],
+            "title": "Best Colleges in New Jersey for Computer Science and IT",
+            "link": "https://www.computertrainingschools.com/by-state/in-new-jersey/",
+            "displayed_link": "https://www.computertrainingschools.com \u203a by-state \u203a in...",
+            "source_logo": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/4698c7900ea087e6acaf28eaa467ad90272ff40790b32c43be61e1274ded8ca2.jpeg",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBjb21wdXRlciBzY2llbmNlIHNjaG9vbCBpbiBOSj8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCamIyMXdkWFJsY2lCelkybGxibU5sSUhOamFHOXZiQ0JwYmlCdWFnIiwiYnMiOiJjLVB5NEZJSXo4aE16bEFvemNzc1N5MHF6aXlwVk1nc1ZraEtMUzVSU01zdlV2QU1zWmZZcjJXa0tDVmZqazlaWmdsWENKY2F4S1RrX0p5YzFQUlVoWXpFWW9XU2pGU0lJczhRaFlLaV9QU2l4Rng3aWF2VlJ1cFNxdVc0RldlV3dCUnpSWEZwUTB6TlJEVU0yUjE1WUpuUVlFZDdpYi1aUmhwU2F1VVlPb0Ftb3Vvb0xVN2tTdUxTRGM5SUxJRXBWRFlFdWlhM29MUWt0VWloT0Rrek5TODVGVWhuNU9mbmdEVDRlZGxMX01vMjBwUFNLU2RhVDE2V0FDTUEiLCJpZCI6ImZjXzNWYzZaLUtSRnNmTDFzUVAwc3ZxbUF3XzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TloyODRjREo2UVdNM1NXUkpSbVpWZG1SSmNEaDZXVm8wTkdsUU5YbFVNamhOVlhCV2JrUjBTbVZxWDFwNlMzUkJlSEZIWmtaWFowNXlVWE5OZWsxNE1qbG5ha0pWVGpOMGJXdHJXVWxvZUV4UGRqYzRRMWRKVWt0d2R4SVhNMVpqTmxvdFMxSkdjMlpNTVhOUlVEQnpkbkZ0UVhjYUlrRkdXSEpGWTNGNVEya3pMVFpZVW1kS09HeHpTRmxWTlhoU04wWmpRV2RTWWtFIiwiZmN2IjoiMyIsImVpIjoiM1ZjNlotS1JGc2ZMMXNRUDBzdnFtQXciLCJxYyI6IkNnOXBkQ0IxYm1sMlpYSnphWFJwWlhNUUFIMklPQTRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBjb21wdXRlciBzY2llbmNlIHNjaG9vbCBpbiBOSj8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0FqTVNCamIyMXdkWFJsY2lCelkybGxibU5sSUhOamFHOXZiQ0JwYmlCdWFnIiwiYnMiOiJjLVB5NEZJSXo4aE16bEFvemNzc1N5MHF6aXlwVk1nc1ZraEtMUzVSU01zdlV2QU1zWmZZcjJXa0tDVmZqazlaWmdsWENKY2F4S1RrX0p5YzFQUlVoWXpFWW9XU2pGU0lJczhRaFlLaV9QU2l4Rng3aWF2VlJ1cFNxdVc0RldlV3dCUnpSWEZwUTB6TlJEVU0yUjE1WUpuUVlFZDdpYi1aUmhwU2F1VVlPb0Ftb3Vvb0xVN2tTdUxTRGM5SUxJRXBWRFlFdWlhM29MUWt0VWloT0Rrek5TODVGVWhuNU9mbmdEVDRlZGxMX01vMjBwUFNLU2RhVDE2V0FDTUEiLCJpZCI6ImZjXzNWYzZaLUtSRnNmTDFzUVAwc3ZxbUF3XzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "2025 Best Colleges for Information Technology in America",
+            "link": "https://www.niche.com/colleges/search/best-colleges-for-information-technology/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.niche.com/colleges/search/best-colleges-for-information-technology/&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECBUQAQ",
+            "displayed_link": "https://www.niche.com \u203a colleges \u203a search \u203a best-colleg...",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a64882374cd2ec9b7748d7f4a6e02888b3.png",
+            "snippet": "2025 Best Colleges for Information Technology in America \u00b7 Cornell University \u00b7 Cornell University \u00b7 Western Governors University.",
+            "snippet_highlighted_words": [
+                "Colleges",
+                "University",
+                "University",
+                "University"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Illinois",
+                        "link": "https://www.niche.com/colleges/search/best-colleges-for-information-technology/s/illinois/"
+                    },
+                    {
+                        "title": "University of California",
+                        "link": "https://www.niche.com/colleges/search/best-colleges-for-information-technology/s/california/"
+                    },
+                    {
+                        "title": "New Jersey Institute of...",
+                        "link": "https://www.niche.com/colleges/search/best-colleges-for-information-technology/s/new-jersey/"
+                    },
+                    {
+                        "title": "Dallas",
+                        "link": "https://www.niche.com/colleges/search/best-colleges-for-information-technology/m/dallas-fort-worth-metro-area/"
+                    }
+                ]
+            },
+            "source": "Niche"
+        },
+        {
+            "position": 2,
+            "title": "Best IT Colleges & Programs in New York",
+            "link": "https://www.appily.com/colleges/best-colleges/major/it/state/new-york",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.appily.com/colleges/best-colleges/major/it/state/new-york&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEEQAQ",
+            "displayed_link": "https://www.appily.com \u203a best-colleges \u203a major \u203a state",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a6008279de58d1515198c944002831d3c0.png",
+            "snippet": "The Rochester Institute of Technology is a 4-year private university of technology, arts, and design in northwest New York State. RIT is home to 11 colleges ...",
+            "snippet_highlighted_words": [
+                "university",
+                "colleges"
+            ],
+            "source": "Appily.com"
+        },
+        {
+            "position": 3,
+            "title": "Best Universities for Information Technology (IT) in the World",
+            "link": "https://edurank.org/cs/information-technology/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edurank.org/cs/information-technology/&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEIQAQ",
+            "displayed_link": "https://edurank.org \u203a information-technology",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a616459982e6cf2d05d328e11204fc52c8.png",
+            "date": "Feb 29, 2024",
+            "snippet": "Best Universities for Information Technology (IT) in the World \u00b7 1. Massachusetts Institute of Technology \u00b7 2. Education University of Hong Kong.",
+            "snippet_highlighted_words": [
+                "Universities",
+                "University"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "The United States",
+                        "link": "https://edurank.org/cs/information-technology/us/"
+                    },
+                    {
+                        "title": "Asia",
+                        "link": "https://edurank.org/cs/information-technology/as/"
+                    },
+                    {
+                        "title": "Europe",
+                        "link": "https://edurank.org/cs/information-technology/eu/"
+                    },
+                    {
+                        "title": "Africa",
+                        "link": "https://edurank.org/cs/information-technology/af/"
+                    }
+                ]
+            },
+            "source": "EduRank"
+        },
+        {
+            "position": 4,
+            "title": "QS World University Rankings for Computer Science and ...",
+            "link": "https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEAQAQ",
+            "displayed_link": "https://www.topuniversities.com \u203a computer-science-inf...",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a67d622dde7baa7e52d12044c6ca06aaa5.png",
+            "snippet": "The National University of Singapore (NUS) is the top university in Asia for the subject, ranked sixth overall, while fourth-placed University of Oxford is the ...",
+            "snippet_highlighted_words": [
+                "University",
+                "university",
+                "University"
+            ],
+            "source": "Top Universities"
+        },
+        {
+            "position": 5,
+            "title": "New York Institute of Technology | New York Tech",
+            "link": "https://www.nyit.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyit.edu/&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEcQAQ",
+            "displayed_link": "https://www.nyit.edu",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a61c6a22b8e94689b7bca3746b552543a0.png",
+            "snippet": "New York Tech is located in the world's tech, business, and creative hubs, with a medical school in both suburban and rural settings.",
+            "source": "New York Institute of Technology"
+        },
+        {
+            "position": 6,
+            "title": "Top Computer Science Universities in United States",
+            "link": "https://www.usnews.com/education/best-global-universities/united-states/computer-science",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usnews.com/education/best-global-universities/united-states/computer-science&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEQQAQ",
+            "displayed_link": "https://www.usnews.com \u203a ... \u203a United States",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a6961f531b007a4dfab49784d4ba3096b8.png",
+            "snippet": "Here are the best global universities for computer science in the United States \u00b7 Massachusetts Institute of Technology (MIT) \u00b7 Stanford University \u00b7 Carnegie ...",
+            "snippet_highlighted_words": [
+                "universities",
+                "University"
+            ],
+            "source": "U.S. News & World Report"
+        },
+        {
+            "position": 7,
+            "title": "Stevens Institute of Technology",
+            "link": "https://www.stevens.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stevens.edu/&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECEYQAQ",
+            "displayed_link": "https://www.stevens.edu",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a6eca52354189c4aff2396d9b874bbc181.png",
+            "snippet": "Stevens Institute of Technology is a student-centric research university, with technology at its core. Our three schools and one college uniquely prepare ...",
+            "snippet_highlighted_words": [
+                "university"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Admissions",
+                        "link": "https://www.stevens.edu/admissions"
+                    },
+                    {
+                        "title": "Our Schools",
+                        "link": "https://www.stevens.edu/academics/our-schools"
+                    },
+                    {
+                        "title": "Graduate Study",
+                        "link": "https://www.stevens.edu/academics/graduate-study"
+                    },
+                    {
+                        "title": "Graduate Admissions",
+                        "link": "https://www.stevens.edu/admission-aid/graduate-admissions"
+                    }
+                ]
+            },
+            "source": "Stevens Institute of Technology"
+        },
+        {
+            "position": 8,
+            "title": "New Jersey Institute of Technology |",
+            "link": "https://www.njit.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.njit.edu/&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECD8QAQ",
+            "displayed_link": "https://www.njit.edu",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a60569be6beedc4f1615c664d9fe41979e.png",
+            "snippet": "New Jersey Institute of Technology is the state's public polytechnic university and a leader in STEM education, research, economic development, and service.",
+            "snippet_highlighted_words": [
+                "university"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Admissions",
+                        "link": "https://www.njit.edu/admissions"
+                    },
+                    {
+                        "title": "Major & Degree Finder",
+                        "link": "https://www.njit.edu/academics/degrees"
+                    },
+                    {
+                        "title": "Academics",
+                        "link": "https://www.njit.edu/academics"
+                    },
+                    {
+                        "title": "Maps and Directions",
+                        "link": "https://www.njit.edu/about/maps-directions"
+                    }
+                ]
+            },
+            "source": "New Jersey Institute of Technology |"
+        },
+        {
+            "position": 9,
+            "title": "195 Institutions offering IT Courses In the USA",
+            "link": "https://www.hotcoursesabroad.com/study/training-degrees/us-usa/it-courses/loc/211/cgory/e2-3/sin/ct/programs.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hotcoursesabroad.com/study/training-degrees/us-usa/it-courses/loc/211/cgory/e2-3/sin/ct/programs.html&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQFnoECD4QAQ",
+            "displayed_link": "https://www.hotcoursesabroad.com \u203a ... \u203a IT",
+            "favicon": "https://serpapi.com/searches/673a57dcf3622a762a6fc1de/images/eb77d15ec2940b21def75d9854f083a662a3808510df70b265a674f606dad8b6.jpeg",
+            "snippet": "195 Universities in the USA offering IT degrees and courses \u00b7 University of Nebraska at Omaha \u00b7 California State University Fullerton \u00b7 Catholic University of ...",
+            "snippet_highlighted_words": [
+                "Universities",
+                "University",
+                "University",
+                "University"
+            ],
+            "source": "Hotcoursesabroad"
+        }
+    ],
+    "filters": [
+        {
+            "name": "List",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcklWwTbg57kIDzJURvYzmu4c_rXZ1cvrGZ_0dyxE7qUnqyxZWyTspgg4ywTpmkOgvF9E1GBE6dO4SIav8l0bJBoupA1g",
+                "q": "It universities list"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+list&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcklWwTbg57kIDzJURvYzmu4c_rXZ1cvrGZ_0dyxE7qUnqyxZWyTspgg4ywTpmkOgvF9E1GBE6dO4SIav8l0bJBoupA1g&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIHhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+list&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcklWwTbg57kIDzJURvYzmu4c_rXZ1cvrGZ_0dyxE7qUnqyxZWyTspgg4ywTpmkOgvF9E1GBE6dO4SIav8l0bJBoupA1g"
+        },
+        {
+            "name": "United states",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7do7TcQbgWb8RlAGDRTN0sMN-9Siwas_ju7lGTYMY3Tc9FwtZGNPqwYTCcwG589U9mEUybHSM8RlfZZTke8WRUuAfJDjr8NC_UResjJX9KLauuam5i7AOYT-5jZB44ZH7DzIAXYfsitTcOdKd8nyUj5_6FtiI",
+                "q": "United states it universities"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=United+states+it+universities&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7do7TcQbgWb8RlAGDRTN0sMN-9Siwas_ju7lGTYMY3Tc9FwtZGNPqwYTCcwG589U9mEUybHSM8RlfZZTke8WRUuAfJDjr8NC_UResjJX9KLauuam5i7AOYT-5jZB44ZH7DzIAXYfsitTcOdKd8nyUj5_6FtiI&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIGRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=United+states+it+universities&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7do7TcQbgWb8RlAGDRTN0sMN-9Siwas_ju7lGTYMY3Tc9FwtZGNPqwYTCcwG589U9mEUybHSM8RlfZZTke8WRUuAfJDjr8NC_UResjJX9KLauuam5i7AOYT-5jZB44ZH7DzIAXYfsitTcOdKd8nyUj5_6FtiI"
+        },
+        {
+            "name": "Undergrad",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpdAckUPRhhb0vygLkKFtuwnYyvQQMXCFb9CKuXK6Tl5rEmucbgxtJIPQ58Cfc1TMPTs8DiPcJLnw2GXlJkIik2VtdEnMyaGHSx2opBNVFAqOWJbHY",
+                "q": "It universities undergrad"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+undergrad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpdAckUPRhhb0vygLkKFtuwnYyvQQMXCFb9CKuXK6Tl5rEmucbgxtJIPQ58Cfc1TMPTs8DiPcJLnw2GXlJkIik2VtdEnMyaGHSx2opBNVFAqOWJbHY&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIGBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+undergrad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpdAckUPRhhb0vygLkKFtuwnYyvQQMXCFb9CKuXK6Tl5rEmucbgxtJIPQ58Cfc1TMPTs8DiPcJLnw2GXlJkIik2VtdEnMyaGHSx2opBNVFAqOWJbHY"
+        },
+        {
+            "name": "Within 1 mi",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dyp0_wBvX-YosSNW2V1Nt5GfmZClt6SVBLT5sqjbFsn0Bkg5I6Dh-DMhRdz4BlVpyd8PeDjTuS2KZwzup4e4FtdK-MSdppitwNO59D06dv0TBXN3yWqgJ-2juP-EOzPbmTqXxGwF1yn3izMSTiANeCQ9xq0PC1JUkfnXsQwhh1aTR-H7j",
+                "q": "IT universities within 1 mi"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=IT+universities+within+1+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dyp0_wBvX-YosSNW2V1Nt5GfmZClt6SVBLT5sqjbFsn0Bkg5I6Dh-DMhRdz4BlVpyd8PeDjTuS2KZwzup4e4FtdK-MSdppitwNO59D06dv0TBXN3yWqgJ-2juP-EOzPbmTqXxGwF1yn3izMSTiANeCQ9xq0PC1JUkfnXsQwhh1aTR-H7j&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIFxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities+within+1+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dyp0_wBvX-YosSNW2V1Nt5GfmZClt6SVBLT5sqjbFsn0Bkg5I6Dh-DMhRdz4BlVpyd8PeDjTuS2KZwzup4e4FtdK-MSdppitwNO59D06dv0TBXN3yWqgJ-2juP-EOzPbmTqXxGwF1yn3izMSTiANeCQ9xq0PC1JUkfnXsQwhh1aTR-H7j"
+        },
+        {
+            "name": "Open now",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1jj7m1iuGTupTL14O2UeHCDl3opAZdC2Su8zvswq4QnoAeIMmZQxW59XuKY14a8vM6pAgEJfm9YzLLTkHawn4I3FA29OaWGKEJyGt5K8OkX5Zz_ypkRvE-9kwwvRhLCKeQ3r4K8",
+                "q": "IT universities open now"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=IT+universities+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1jj7m1iuGTupTL14O2UeHCDl3opAZdC2Su8zvswq4QnoAeIMmZQxW59XuKY14a8vM6pAgEJfm9YzLLTkHawn4I3FA29OaWGKEJyGt5K8OkX5Zz_ypkRvE-9kwwvRhLCKeQ3r4K8&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIFhAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dubok2W2alVUcLPNX0EgR1jj7m1iuGTupTL14O2UeHCDl3opAZdC2Su8zvswq4QnoAeIMmZQxW59XuKY14a8vM6pAgEJfm9YzLLTkHawn4I3FA29OaWGKEJyGt5K8OkX5Zz_ypkRvE-9kwwvRhLCKeQ3r4K8"
+        },
+        {
+            "name": "In usa",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dNp56yoP2HuFG3omuRZDjjqjhzlsgc5RNJp38srhOgd8nRBK2j_FQN9khJNvcK6-4ySwTkiJyxZphDDp-NaHwZ9rbBtgx-oOHDf-3YFTEPqvdTSzPIAqYFy6SDStPV34VTka9BW0WEOk1eDU6GLk4voEy2EI",
+                "q": "It universities in usa"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+in+usa&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNp56yoP2HuFG3omuRZDjjqjhzlsgc5RNJp38srhOgd8nRBK2j_FQN9khJNvcK6-4ySwTkiJyxZphDDp-NaHwZ9rbBtgx-oOHDf-3YFTEPqvdTSzPIAqYFy6SDStPV34VTka9BW0WEOk1eDU6GLk4voEy2EI&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIahAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+in+usa&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNp56yoP2HuFG3omuRZDjjqjhzlsgc5RNJp38srhOgd8nRBK2j_FQN9khJNvcK6-4ySwTkiJyxZphDDp-NaHwZ9rbBtgx-oOHDf-3YFTEPqvdTSzPIAqYFy6SDStPV34VTka9BW0WEOk1eDU6GLk4voEy2EI"
+        },
+        {
+            "name": "Top",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcJD3CwbDQ3EVngbylZdj3I1tV8DP5bmd_RP9udSIaVh8d_FJ_8fPNcyxSmp1wW5J077CucBBGa_j6fvyQjLdZE85G5-w",
+                "q": "Top it universities"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=Top+it+universities&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcJD3CwbDQ3EVngbylZdj3I1tV8DP5bmd_RP9udSIaVh8d_FJ_8fPNcyxSmp1wW5J077CucBBGa_j6fvyQjLdZE85G5-w&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIaBAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+it+universities&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d5lj8zB1NlFNMFLNnEyzArpGaFtl-aLfGU4AeIvxgqDcJD3CwbDQ3EVngbylZdj3I1tV8DP5bmd_RP9udSIaVh8d_FJ_8fPNcyxSmp1wW5J077CucBBGa_j6fvyQjLdZE85G5-w"
+        },
+        {
+            "name": "In Europe",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpzY2UCsGBoXppGVtiZXjcfkq5Jo5K0UaizDNWlEFrMIH6MLdKNOU1M4nbaAslQ7FJF6oSINs6iMwO0uCxTy_qngglqWXVvrZc-ZBbdoAGyfB9qlMI",
+                "q": "It universities in Europe"
+            },
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+in+Europe&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpzY2UCsGBoXppGVtiZXjcfkq5Jo5K0UaizDNWlEFrMIH6MLdKNOU1M4nbaAslQ7FJF6oSINs6iMwO0uCxTy_qngglqWXVvrZc-ZBbdoAGyfB9qlMI&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQxKsJegQIaRAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+in+Europe&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCFAjRaUdRvOejONM-YoNZN6l35AsUB2bno15M8UNRbpzY2UCsGBoXppGVtiZXjcfkq5Jo5K0UaizDNWlEFrMIH6MLdKNOU1M4nbaAslQ7FJF6oSINs6iMwO0uCxTy_qngglqWXVvrZc-ZBbdoAGyfB9qlMI"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "it universities near brooklyn",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=it+universities+near+brooklyn&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAheEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=it+universities+near+brooklyn"
+        },
+        {
+            "block_position": 1,
+            "query": "United states it universities",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=United+states+it+universities&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhaEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=United+states+it+universities"
+        },
+        {
+            "block_position": 1,
+            "query": "It universities in usa",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+in+usa&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhbEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+in+usa"
+        },
+        {
+            "block_position": 1,
+            "query": "Top it universities",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=Top+it+universities&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhVEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Top+it+universities"
+        },
+        {
+            "block_position": 1,
+            "query": "It universities list",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+list&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhREAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+list"
+        },
+        {
+            "block_position": 1,
+            "query": "It universities undergrad",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+undergrad&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhLEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+undergrad"
+        },
+        {
+            "block_position": 1,
+            "query": "Best colleges for Information Technology in USA",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=Best+colleges+for+Information+Technology+in+USA&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhIEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+colleges+for+Information+Technology+in+USA"
+        },
+        {
+            "block_position": 1,
+            "query": "It universities in Europe",
+            "link": "https://www.google.com/search?sca_esv=921985182cafdba1&q=It+universities+in+Europe&sa=X&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ1QJ6BAhFEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+universities+in+Europe"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=10&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8NMDegQIFBAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=10&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAE",
+            "3": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=20&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAG",
+            "4": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=30&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAI",
+            "5": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=40&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAK",
+            "6": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=50&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAM",
+            "7": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=60&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAO",
+            "8": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=70&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAQ",
+            "9": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=80&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAS",
+            "10": "https://www.google.com/search?q=IT+universities&sca_esv=921985182cafdba1&ei=3Vc6Z-KRFsfL1sQP0svqmAw&start=90&sa=N&sstk=ATObxK5safdP9esOHn5a0J8EQvtOc7kRpCNC029BM-Dtso5XPJ7CYqQ22tzSBJovD0AcU-G5J0rIfWgpTVwK1UK0pBKuFgR6qDy3uw&ved=2ahUKEwii9NX5n-SJAxXHpZUCHdKlGsMQ8tMDegQIFBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IT+universities&start=90"
+        }
+    }
+}

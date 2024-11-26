@@ -1,38 +1,87 @@
-.App {
+.app-container {
+  padding: 20px;
+  max-width: 600px; /* Reduced width for a more compact layout */
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.or-text {
+  margin: 20px 0;
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+}
+
+
+.query-title {
+  margin-bottom: 90px;
+  font-size: 20px;
+  color: #333;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* File input and button spacing */
+.file-input {
+  display: block;
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: rgb(16, 16, 15);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button {
+  margin-bottom: 20px;
+  padding: 12px;
+  font-size: 16px;
+  width: 100%;
+  color: rgb(84, 142, 192);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Error message styling */
+.error-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: red;
+  text-align: center;
+}
+.text-field {
+  margin-bottom: 40px; /* Matches dropdown-section spacing */
+  font-size: 16px;
+  width: 100%;
+  padding-bottom: 60px; /* Optional: only if needed for additional vertical space inside the text field */
+  color: aqua;}
+
+.dropdown-section {
+  margin-top: 60px;
+  margin-bottom: 30px; /* Uniform spacing with text-field */
 }
 
-.App-link {
-  color: #61dafb;
+
+.MuiFormControl-root {
+  margin-bottom: 30px; /* Ensures uniform spacing between dropdown menus */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.MuiOutlinedInput-root {
+  border-radius: 8px; /* Rounded corners for the dropdown */
+}
+
+.MuiInputLabel-outlined {
+  transform: translate(14px, 12px) scale(1); /* Label inside the box initially */
+  transition: all 0.3s ease;
+}
+
+.MuiInputLabel-shrink {
+  transform: translate(14px, -6px) scale(0.75); /* Label moves up on focus */
+  background-color: rgb(253, 253, 253); /* Matches dropdown background */
+  padding: 0 4px; /* Adds padding to label when shrunk */
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: #010000; /* Neutral border color */
+  transition: border-color 0.3s ease;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #3f51b5; /* Highlight color when focused */
 }
