@@ -16,14 +16,14 @@ app.config['SESSION_TYPE'] = 'filesystem'
 CORS(app)
 
 # Configuration
-CLIENT_SECRETS_FILE = 'client_secret_1052901227026-2j1mt2p5s6833ditis49mqksac7cim6s.apps.googleusercontent.com.json'
+CLIENT_SECRETS_FILE = ''
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
-SERPAPI_KEY = 'f7df076291a7951e3a1146207e678b1b33316618c3c7eb5eb22d7a8b8053b1ce'
+SERPAPI_KEY = ''
 SERPAPI_URL = 'https://serpapi.com/search'
 
-openai.api_key = "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"
+openai.api_key = ""
 def call_llm_api(prompt, serp_data):
     # This is where you would send the prompt and the SERP results to the LLM
     # Assuming you are calling an external LLM API (e.g., OpenAI or custom model)
